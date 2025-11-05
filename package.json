@@ -1,6 +1,6 @@
 {
-  "name": "llm-chat-app-template",
-  "description": "A simple chat application powered by Cloudflare Workers AI",
+  "name": "ubayresearch-chat",
+  "description": "AI-powered chat application for research assistance using Cloudflare Workers AI",
   "private": true,
   "cloudflare": {
     "label": "LLM Chat App",
